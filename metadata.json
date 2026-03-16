@@ -1,0 +1,5 @@
+{
+  "name": "Simulateur de Switch Réseau",
+  "description": "Application pédagogique interactive pour comprendre le fonctionnement d'un commutateur réseau (switch) et la construction de sa table MAC (SAT).",
+  "requestFramePermissions": []
+}
